@@ -11,7 +11,7 @@ from ssh_audit.ssh_audit import main  # noqa: E402
 from ssh_audit import exitcodes  # noqa: E402
 
 exit_code = exitcodes.GOOD
- 
+
 try:
     exit_code = main()
 except Exception:
