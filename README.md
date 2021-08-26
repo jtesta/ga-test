@@ -1,6 +1,6 @@
 # ssh-audit
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/jtesta/ssh-audit/blob/master/LICENSE)
-[![Build Status](https://github.com/jtesta/ssh-audit/actions/workflows/tox.yaml/badge.svg)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/jtesta/ssh-audit/blob/master/LICENSE)
+[![Build Status](https://github.com/jtesta/ssh-audit/actions/workflows/tox.yaml/badge.svg)](https://github.com/jtesta/ga-test/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jtesta/ssh-audit/blob/master/CONTRIBUTING.md)
 [![Docker Pulls](https://img.shields.io/docker/pulls/positronsecurity/ssh-audit)](https://hub.docker.com/r/positronsecurity/ssh-audit)
 
